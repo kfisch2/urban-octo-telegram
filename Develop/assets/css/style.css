@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* end of hero style */
 
+/* content images */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,6 +71,7 @@ p {
     float: right;
     margin-left: 25px;
 }
+/* end of content images */
 
 .content {
     width: 75%;
