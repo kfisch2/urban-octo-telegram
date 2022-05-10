@@ -11,8 +11,6 @@ Refactor code to meet accessibility standards
 https://kfisch2.github.io/urban-octo-telegram
 
 
-
-
 ## Contribution
 Made by Kayla Fischer
 
